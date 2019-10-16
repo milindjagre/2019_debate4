@@ -1,4 +1,4 @@
-# 2019_debate4
+# 2019 Fourth Democratic Debate
 The democratic debate 4 held at Westerville, OH
 
 We are analyzing different aspects of the fourth democratic debate.
