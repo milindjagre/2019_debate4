@@ -1,0 +1,12 @@
+https://github.com/milindjagre/2019_debate4
+
+1. Which candidate use the most number of words while answering questions?
+2. Which candidate use the most number of sentences/dialogues while answering questions?
+3. Which candidate use the least number of words while answering questions?
+4. Which candidate use the least number of sentences/dialogues while answering questions?
+5. Which candidate was asked the most number of questions?
+6. Which candidate had the most positive dialogues during the debate?
+7. How many times candidates crosstalk?
+8. Top 10 most frequently used words during the debate?
+9. Which candidate was addressed the most by the hosts of the debate?
+10. 
