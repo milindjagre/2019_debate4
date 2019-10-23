@@ -9,5 +9,6 @@ So far, I have completed the following objectives
 1. Most involved candidate
 2. Most frequently used words by the candidates
 3. Candidate who used the most number of words while answering questions
+4. Candidate who used the most number of sentences while answering questions
 
 ## Keep watching this space!!
