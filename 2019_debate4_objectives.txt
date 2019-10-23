@@ -1,7 +1,7 @@
 https://github.com/milindjagre/2019_debate4
 
-1. Which candidate was most involved in the debate?
-2. Which candidate use the most number of words while answering questions?
+DONE - 1. Which candidate was most involved in the debate?
+DONE - 2. Which candidate use the most number of words while answering questions?
 3. Which candidate use the most number of sentences/dialogues while answering questions?
 4. Which candidate use the least number of words while answering questions?
 5. Which candidate use the least number of sentences/dialogues while answering questions?
