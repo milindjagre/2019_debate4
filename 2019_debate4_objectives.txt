@@ -1,13 +1,6 @@
-https://github.com/milindjagre/2019_debate4
-
-DONE - 1. Which candidate was most involved in the debate?
-DONE - 2. Top 10 most frequently used words during the debate?
-DONE - 3. Which candidate use the most number of words while answering questions?
-DONE - 4. Which candidate use the most number of sentences/dialogues while answering questions?
-DONE - 5. Which candidate was asked/addressed the most number of questions?
-WIP - 6. Which candidate had the most positive dialogues during the debate?
-DONE - 7. How many times candidates crosstalk?
-
-
-https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/
-https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv
+1. Which candidate was most involved in the debate?
+2. Top 10 most frequently used words during the debate?
+3. Which candidate use the most number of words while answering questions?
+4. Which candidate use the most number of sentences/dialogues while answering questions?
+5. Which candidate was asked/addressed the most number of questions?
+6. How many times candidates crosstalk?
